@@ -14,11 +14,15 @@ has copyright information including the creator's name in the bottom left corner
 of the image itself, plus information about the image and the creator, and links to other images in the gallery by the same creator.
 
 ## User experience
+It is easy to navigate the website,and there are comment of the image. Online shop, social media, provide the key word of hashtag, this is convenivence for people 
+to do the research.
+
 
 ## Filter functionality
+popular trend of year,you can edit the filter, and suggestion for people
 
 ## Categories
 
 
-Reference: https://www.nhm.ac.uk/wpy/gallery
+Reference: (https://www.nhm.ac.uk/wpy/gallery)
 
